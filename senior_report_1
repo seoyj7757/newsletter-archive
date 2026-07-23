@@ -1,0 +1,120 @@
+
+<div style="max-width:640px; margin:0 auto; padding:0 0 80px; font-family:'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; color:#3D2B1F; line-height:1.6;">
+
+  <!-- 1. 이 편 표지 배너 -->
+  <img src="https://www.saraminimage.co.kr/event/contents/2019interview/senior_report_main_3.png" alt="2026 원더풀시니어 리포트 01편 배너" style="width:100%; max-width:640px; height:auto; display:block;">
+
+  <!-- 2. 이 편 요약 -->
+  <div style="padding:32px 24px 8px;">
+    <div style="font-size:26px; font-weight:800; color:#2A1B12; margin-bottom:14px;">"이력서를 넣어도 연락이 없습니다."</div>
+    <div style="font-size:15px; color:#3D2B1F;">
+      나이가 걸림돌처럼 느껴지는 순간들이 있으셨나요? 원더풀시니어에서 사람인 커뮤니티
+      <a href="https://career.saramin.co.kr/" style="color:#E8622C; font-weight:700; text-decoration:underline;">커리어피드</a>에
+      쌓인 4050 구직자들 고민을 모았습니다. 재취업을 준비하는 마음가짐과 고민들, 그리고
+      그 고민에 해답을 제시해 줄 현직 멘토들의 현실적인 조언을 함께 확인해 보세요.
+    </div>
+  </div>
+
+  <!-- 3. 이 편 위치 그래프 -->
+  <div style="padding:24px 24px 8px;">
+    <div style="font-size:21px; font-weight:800; color:#E8622C; letter-spacing:0.02em; margin-bottom:12px;">커리어피드 4050 구직자 고민 비중</div>
+    <img src="https://www.saraminimage.co.kr/event/contents/2019interview/senior_report_chart_3.png" alt="4050 고민 비중 그래프 - 재취업·이직 마음가짐 49.5%" style="width:100%; max-width:592px; height:auto; display:block; border-radius:16px;">
+    <div style="text-align:center; font-size:13px; color:#6B6058; margin-top:12px; margin-bottom:16px;">
+      재취업·이직에 대한 고민이 전체의 <span style="color:#E8622C; font-weight:700;">49.5%</span>를 차지했습니다
+    </div>
+  </div>
+
+  <!-- 4. Q&A 미리보기 -->
+  <div style="padding:40px 24px 8px;">
+    <div style="font-size:21px; font-weight:800; color:#E8622C; margin-bottom:14px;">이런 고민들을 다룹니다</div>
+    <div style="background:#FDF1E8; border-radius:20px; padding:16px; margin-bottom:20px; box-shadow:0 2px 10px rgba(42,27,18,0.05);">
+      <div style="position:relative; width:100%; height:400px; overflow:hidden; border-radius:12px;">
+        <img src="https://www.saraminimage.co.kr/event/contents/2019interview/senior_report_sample_3.png" alt="리포트 내지 미리보기" style="width:100%; height:auto; display:block;">
+        <div style="position:absolute; left:0; right:0; bottom:0; height:38%; background:linear-gradient(to bottom, rgba(253,241,232,0) 0%, rgba(253,241,232,0.85) 45%, rgba(253,241,232,1) 70%);"></div>
+      </div>
+    </div>
+    <div style="list-style:none;">
+      <div style="display:flex; gap:10px; padding:12px 0; border-bottom:1px solid #EDE6DF; font-size:14px; color:#3D2B1F;">
+        <span style="flex-shrink:0; color:#E8622C; font-weight:800; font-size:13px;">Q1</span>
+        <span>"50대에게도 기회가 있는 곳으로 이민이라도 가고 싶네요"</span>
+      </div>
+      <div style="display:flex; gap:10px; padding:12px 0; border-bottom:1px solid #EDE6DF; font-size:14px; color:#3D2B1F;">
+        <span style="flex-shrink:0; color:#E8622C; font-weight:800; font-size:13px;">Q2</span>
+        <span>"재취업에는 성공했지만 과연 버틸 수 있을지 걱정됩니다"</span>
+      </div>
+      <div style="display:flex; gap:10px; padding:12px 0; border-bottom:1px solid #EDE6DF; font-size:14px; color:#3D2B1F;">
+        <span style="flex-shrink:0; color:#E8622C; font-weight:800; font-size:13px;">Q3</span>
+        <span>"이력서가 미열람인데 같은 공고가 다시 올라왔습니다"</span>
+      </div>
+      <div style="display:flex; gap:10px; padding:12px 0; border-bottom:1px solid #EDE6DF; font-size:14px; color:#3D2B1F;">
+        <span style="flex-shrink:0; color:#E8622C; font-weight:800; font-size:13px;">Q4</span>
+        <span>"퇴사 사유, 면접에서 어디까지 솔직하게 말해야 할까요"</span>
+      </div>
+      <div style="display:flex; gap:10px; padding:12px 0; font-size:14px; color:#3D2B1F;">
+        <span style="flex-shrink:0; color:#E8622C; font-weight:800; font-size:13px;">Q5</span>
+        <span>"경력은 많은데 왜 서류에서 자꾸 떨어지는 걸까요?"</span>
+      </div>
+    </div>
+    <div style="margin-top:16px; font-size:14px; font-weight:600; color:#E8622C;">그리고, 같은 고민을 먼저 넘어선 사람들의 성공 경험담도 만나보세요.</div>
+  </div>
+
+  <!-- 5. 다른 편 보기 -->
+  <div style="padding:40px 24px 8px; margin-top:24px; border-top:1px solid #EDE6DF;">
+    <div style="font-size:21px; font-weight:800; color:#2A1B12; margin-bottom:4px;">2026 원더풀시니어 리포트</div>
+    <div style="font-size:15px; color:#6B6058; margin-bottom:20px;">마음가짐부터 적응까지, 4편의 이야기로 이어집니다.</div>
+
+    <!-- 01편 -->
+    <a href="https://your-wonderfulsenior-page.com/report/01" style="display:flex; align-items:center; gap:16px; padding:14px; border:1px solid #EDE6DF; border-radius:14px; margin-bottom:10px; text-decoration:none; color:inherit;">
+      <div style="flex:1; min-width:0;">
+        <span style="display:inline-flex; align-items:center; justify-content:center; width:20px; height:20px; border-radius:999px; background:#FDF1E8; color:#E8622C; font-size:10px; font-weight:800; margin-bottom:5px;">01</span>
+        <div style="font-size:14px; font-weight:700; color:#2A1B12; margin-bottom:3px;">재취업·이직 마음가짐편</div>
+        <div style="font-size:12px; color:#6B6058;">"다 해봤는데, 왜 이렇게 막막할까요"</div>
+      </div>
+      <div style="flex-shrink:0; font-size:16px; color:#E8622C;">→</div>
+    </a>
+
+    <!-- 02편 - 미공개 -->
+    <div style="position:relative; display:flex; align-items:center; gap:16px; padding:14px; border:1px solid #EDE6DF; border-radius:14px; margin-bottom:10px;">
+      <div style="flex:1; min-width:0;">
+        <span style="display:inline-flex; align-items:center; justify-content:center; width:20px; height:20px; border-radius:999px; background:#F2EEE9; color:#B8ADA1; font-size:10px; font-weight:800; margin-bottom:5px;">02</span>
+        <div style="font-size:14px; font-weight:700; color:#B8ADA1; margin-bottom:3px;">서류·면접 준비편</div>
+      </div>
+      <div style="position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); font-size:12px; font-weight:800; color:#2A1B12; background:#fff; padding:7px 16px; border-radius:999px; border:1px solid #EDE6DF; box-shadow:0 2px 8px rgba(0,0,0,0.08); white-space:nowrap;">
+        <span style="color:#E8622C;">8월 12일</span> 공개
+      </div>
+    </div>
+
+    <!-- 03편 - 미공개 -->
+    <div style="position:relative; display:flex; align-items:center; gap:16px; padding:14px; border:1px solid #EDE6DF; border-radius:14px; margin-bottom:10px;">
+      <div style="flex:1; min-width:0;">
+        <span style="display:inline-flex; align-items:center; justify-content:center; width:20px; height:20px; border-radius:999px; background:#F2EEE9; color:#B8ADA1; font-size:10px; font-weight:800; margin-bottom:5px;">03</span>
+        <div style="font-size:14px; font-weight:700; color:#B8ADA1; margin-bottom:3px;">채용 과정의 현실편</div>
+      </div>
+      <div style="position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); font-size:12px; font-weight:800; color:#2A1B12; background:#fff; padding:7px 16px; border-radius:999px; border:1px solid #EDE6DF; box-shadow:0 2px 8px rgba(0,0,0,0.08); white-space:nowrap;">
+        <span style="color:#E8622C;">8월 26일</span> 공개
+      </div>
+    </div>
+
+    <!-- 04편 - 미공개 -->
+    <div style="position:relative; display:flex; align-items:center; gap:16px; padding:14px; border:1px solid #EDE6DF; border-radius:14px; margin-bottom:10px;">
+      <div style="flex:1; min-width:0;">
+        <span style="display:inline-flex; align-items:center; justify-content:center; width:20px; height:20px; border-radius:999px; background:#F2EEE9; color:#B8ADA1; font-size:10px; font-weight:800; margin-bottom:5px;">04</span>
+        <div style="font-size:14px; font-weight:700; color:#B8ADA1; margin-bottom:3px;">입사 후 적응편</div>
+      </div>
+      <div style="position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); font-size:12px; font-weight:800; color:#2A1B12; background:#fff; padding:7px 16px; border-radius:999px; border:1px solid #EDE6DF; box-shadow:0 2px 8px rgba(0,0,0,0.08); white-space:nowrap;">
+        <span style="color:#E8622C;">9월 9일</span> 공개
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. 하단 저작권 푸터 -->
+  <div style="padding:32px 24px 0; margin-top:24px; border-top:1px solid #EDE6DF;">
+    <div style="font-size:14px; font-weight:800; color:#2A1B12; margin-bottom:10px;">© 2026 사람인. All rights reserved.</div>
+    <div style="font-size:13px; color:#9A8A7A; line-height:1.7;">
+      본 리포트의 모든 콘텐츠(텍스트, 이미지, 데이터, 그래프 등)는 사람인의 자산이며, 저작권법의 보호를
+      받습니다. 리포트의 전체 또는 일부를 인용·활용할 경우 반드시 출처(사람인, 원더풀시니어 리포트)를
+      명확히 밝혀야 하며, 사전 서면 동의 없이 무단 복제·배포·수정·2차 가공·상업적 이용은 금지됩니다.
+    </div>
+  </div>
+
+</div>
